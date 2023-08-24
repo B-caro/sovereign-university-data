@@ -1,18 +1,18 @@
 ---
-name: Bisq
-description: Cómo usar Bisq, un intercambio peer to peer
+nombre: Bisq
+descripción: Cómo usar Bisq, un exchange peer to peer
 ---
 
 ![portada](assets/cover.jpeg)
 
-# BISQ: intercambio peer to peer
+# BISQ: exchange peer to peer
 
 Bisq es una plataforma de trading descentralizada para activos digitales, principalmente Bitcoin. Proporciona transacciones directas, seguras y privadas entre usuarios de todo el mundo sin necesidad de un intermediario.
 
 Sitio web: https://bisq.network/
 información: https://bisq.network/getting-started/
 
-_Ten cuidado de no hacer nada precipitadamente, Bisq es una solución avanzada. Una vez configurado, es muy poderoso, pero si eres un principiante completo, puede que no sea adecuado para ti._
+_Ten cuidado de no hacer nada precipitadamente, Bisq es una solución avanzada. Una vez configurado, es muy potente, pero si tienes poca experiencia en el tema, puede que no sea adecuado para ti._
 
 ## video tutorial
 
@@ -103,7 +103,7 @@ Guía paso a paso de Bitcoiner.guide, también conocido como bitcoinQ&A https://
 
 ![imagen](assets/6.png)
 
-7. Ahora tendrás una espera muy corta mientras la red de Bitcoin confirma la transacción de la transacción, lo que coloca los depósitos de seguridad de ambas partes en el contrato de depósito múltiple.
+7. Ahora tendrás una espera muy corta mientras la red de Bitcoin confirma la transacción de la operación, lo que coloca los depósitos de seguridad de ambas partes en el contrato de multi-sig.
 
 ![imagen](assets/7.png)
 
@@ -123,7 +123,7 @@ Una vez que el vendedor confirme la recepción de los fondos, los bitcoins compr
 
 ## Los compromisos al comprar sin KYC (por preguntas y respuestas de Bitcoin)
 
-Tan simple como comprar en Bisq es, hay algunos compromisos de los que debes estar consciente.
+Es muy sencillo comprar en Bisq, pero aun hay algunos compromisos de los que debes estar consciente.
 
 1. Necesitas BTC antes de realizar una operación para formar un depósito de seguridad. No es un problema si has estado en el mundo de Bitcoin por un tiempo, pero podría convertirse en un problema si quieres usar Bisq como tu primera compra. Tu mejor opción en este caso es obtener algunos bitcoins de un amigo o familiar.
 
